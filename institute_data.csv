@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Year,Attendance_Pct,Internal_Marks,External_Marks,Practical_Marks,SGPA,Semester
+AID SE-01,Aarav Sharma,AI & DS,SE,85,28,62,23,8.5,4
+CS TE-02,Ananya Patel,Computer Engineering,TE,92,29,68,24,9.2,6
+AID SE-03,Vihaan Gupta,AI & DS,SE,45,12,35,15,4.2,4
+ETC FE-04,Ishani Verma,E & TC,FE,78,25,55,20,7.8,2
+MECH BE-05,Arjun Reddy,Mechanical Engineering,BE,60,18,42,18,6.5,8
+CIVIL TE-06,Saanvi Iyer,Civil Engineering,TE,88,26,58,22,8.1,6
+CS SE-07,Aditya Malhotra,Computer Engineering,SE,30,10,25,10,3.8,4
+ETC BE-08,Kyra Deshmukh,E & TC,BE,95,30,70,25,9.8,8
+MECH SE-09,Rohan Joshi,Mechanical Engineering,SE,72,22,48,19,7.2,4
+AID FE-10,Diya Kulkarni,AI & DS,FE,48,15,30,12,4.5,2
+CIVIL BE-11,Kabir Singh,Civil Engineering,BE,65,20,45,18,6.8,8
+CS TE-12,Myra Khan,Computer Engineering,TE,82,24,56,21,8.0,6
+MECH FE-13,Aryan Bansal,Mechanical Engineering,FE,55,19,40,17,6.2,2
+ETC SE-14,Anika Choudhury,E & TC,SE,40,11,28,11,4.0,4
+CS BE-15,Advait Patil,Computer Engineering,BE,90,28,65,24,9.0,8
+CIVIL FE-16,Zoya Mirza,Civil Engineering,FE,75,23,50,20,7.5,2
+AID TE-17,Reyansh Bhatia,AI & DS,TE,81,25,57,21,8.2,6
+MECH TE-18,Shanaya Kapoor,Mechanical Engineering,TE,42,14,32,13,4.8,6
+CS FE-19,Vivaan Saxena,Computer Engineering,FE,87,27,60,22,8.6,2
+ETC TE-20,Inaya Sheikh,E & TC,TE,83,24,54,20,8.0,6

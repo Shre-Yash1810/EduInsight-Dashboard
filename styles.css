@@ -40,6 +40,20 @@ html, body, [data-testid="stAppViewContainer"] {
     box-shadow: 0 8px 20px rgba(255, 0, 0, 0.1);
 }
 
+/* Responsive Design for Mobile */
+@media (max-width: 768px) {
+    .main-header {
+        padding: 1rem;
+        border-radius: 10px;
+    }
+    .main-header h1 {
+        font-size: 1.5rem;
+    }
+    .stMetric {
+        margin-bottom: 10px;
+    }
+}
+
 /* Sidebar Customization */
 [data-testid="stSidebar"] {
     background-color: #ffffff;
@@ -48,7 +62,7 @@ html, body, [data-testid="stAppViewContainer"] {
 
 /* Tab Styling */
 .stTabs [data-baseweb="tab-list"] {
-    gap: 2rem;
+    gap: 1rem;
 }
 
 .stTabs [data-baseweb="tab"] {
@@ -65,4 +79,23 @@ html, body, [data-testid="stAppViewContainer"] {
     background-color: #1e3c72 !important;
     color: white !important;
     border-radius: 8px !important;
+}
+
+/* Responsive Design for Mobile */
+@media (max-width: 768px) {
+    .main-header {
+        padding: 1rem;
+        border-radius: 10px;
+    }
+    .main-header h1 {
+        font-size: 1.5rem;
+    }
+    .stMetric {
+        margin-bottom: 10px;
+    }
+    .stTabs [data-baseweb="tab-list"] {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.5rem;
+    }
 }
